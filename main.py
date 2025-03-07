@@ -1,6 +1,6 @@
 print('starting')
 
-import GPT_V1_0 as gpt
+import GPT_V2_1 as gpt
 
 print('welcome')
 

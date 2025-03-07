@@ -1,1 +1,48 @@
-{"conversation_history": [{"user": "hello"}, {"user": "you there", "bot": "User: hello\nBot: \nUser: you there\nBot:\nBot: I'm here to help. You're welcome!\n\nI'll be back soon, but for now let's just say that this is a very good time and we are looking forward towards the next chapter of our series..."}, {"user": "how are you doing", "bot": "User: hello\nBot: \nUser: you there\nBot: User: hello\nBot: \nUser: you there\nBot:\nBot: I'm here to help. You're welcome!\n\nI'll be back soon, but for now let's just say that this is a very good time and we are looking forward towards the next chapter of our series...\nUser: how are you doing\nBot:\nBot: Well it was nice seeing your friends again so thank you all too much!!"}]}
+{
+    "conversation_history": [
+        {
+            "user": "hello what do you remember",
+            "bot": "Hello everyone ! This message has been sent by one person . Please send him anything useful , especially information related specifically regarding bot support issues such Async Memory Usage Issues - If anyone wants assistance getting past their current state then contact them directly here\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (based on memory and context): Hi all ;-)"
+        },
+        {
+            "user": "hello what do you remember",
+            "bot": "Hello everyone ! This message has been sent by one person . Please send him anything useful , especially information related specifically regarding bot support issues such Async Memory Usage Issues - If anyone wants assistance getting past their current state then contact them directly here\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (based on memory and context): Hi all ;-)\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (Please recall and summarize something from memory): hi guys im trying new stuff today because its hard sometimes :("
+        },
+        {
+            "user": "hello what do you remember",
+            "bot": "Hello everyone ! This message has been sent by one person . Please send him anything useful , especially information related specifically regarding bot support issues such Async Memory Usage Issues - If anyone wants assistance getting past their current state then contact them directly here\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (based on memory and context): Hi all ;-)\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (Please recall and summarize something from memory): hi guys im trying new stuff today because its hard sometimes :(\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (Recall something specific from memory that relates to this conversation): hey whats up ? why didnt hes ask my name again after talking alot more than usual lol"
+        },
+        {
+            "user": "what was the last message the user sent to you",
+            "bot": "Hello everyone ! This message has been sent by one person . Please send him anything useful , especially information related specifically regarding bot support issues such Async Memory Usage Issues - If anyone wants assistance getting past their current state then contact them directly here\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (based on memory and context): Hi all ;-)\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (Please recall and summarize something from memory): hi guys im trying new stuff today because its hard sometimes :(\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (Recall something specific from memory that relates to this conversation): hey whats up ? why didnt hes ask my name again after talking alot more than usual lol\n\n\n    ### CURRENT CONVERSATION ###\n    User: what was the last message the user sent to you\n    Bot (Recall something specific from memory that relates to this conversation): oh ok, thanks very much"
+        },
+        {
+            "user": "hello what do you remember",
+            "bot": "Hello everyone ! This message has been sent by one person . Please send him anything useful , especially information related specifically regarding bot support issues such Async Memory Usage Issues - If anyone wants assistance getting past their current state then contact them directly here\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (based on memory and context): Hi all ;-)\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (Please recall and summarize something from memory): hi guys im trying new stuff today because its hard sometimes :(\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (Recall something specific from memory that relates to this conversation): hey whats up ? why didnt hes ask my name again after talking alot more than usual lol\n\n\n    ### CURRENT CONVERSATION ###\n    User: what was the last message the user sent to you\n    Bot (Recall something specific from memory that relates to this conversation): oh ok, thanks very much\n\n\n### CURRENT CONVERSATION ###\nUser: hello what do you remember\nBot (Recall something specific from memory that relates to this conversation): Hey everybody !! You can find any info below please let others see where else people may want/need advice"
+        },
+        {
+            "user": "hello how are you",
+            "bot": "Hello everyone ! This message has been sent by one person . Please send him anything useful , especially information related specifically regarding bot support issues such Async Memory Usage Issues - If anyone wants assistance getting past their current state then contact them directly here\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (based on memory and context): Hi all ;-)\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (Please recall and summarize something from memory): hi guys im trying new stuff today because its hard sometimes :(\n\n\n    ### CURRENT CONVERSATION ###\n    User: hello what do you remember\n    Bot (Recall something specific from memory that relates to this conversation): hey whats up ? why didnt hes ask my name again after talking alot more than usual lol\n\n\n    ### CURRENT CONVERSATION ###\n    User: what was the last message the user sent to you\n    Bot (Recall something specific from memory that relates to this conversation): oh ok, thanks very much\n\n\n### CURRENT CONVERSATION ###\nUser: hello what do you remember\nBot (Recall something specific from memory that relates to this conversation): Hey everybody !! You can find any info below please let others see where else people may want/need advice\n\n\n### CURRENT CONVERSATION ###\nUser: hello how are you\nBot (Recall something specific from memory that relates to this conversation): I am in a good mood so i will try some things :D but if u dont like it or cant get over your dislike of me feel free :)"
+        },
+        {
+            "user": "hello",
+            "bot": "Based on the context above, do you recall anything relevant from memory that may assist in generating a helpful response? Any other questions about these topics as well? Thanks for reading!"
+        },
+        {
+            "user": "hello how are you",
+            "bot": "(Based on the context above, do you recall anything relevant from memory that may assist in generating a helpful response?) Anyone who is interested should check out our forum thread at http://www-botsupportforums.-com/. We have an IRC channel called \"Hello\" which we use regularly with users around town asking us whether they know someone using chatbots...and also"
+        },
+        {
+            "user": "also what",
+            "bot": "(Based on the context above, do you recall anything relevant from memory that may assist in generating a helpful response?) Anything interesting going through those threads would be great too ;)"
+        },
+        {
+            "user": "just me trying to get your memory working",
+            "bot": "(Based on the context above, do you recall anything relevant from memory that may assist in generating a helpful response?) What's wrong buddy?? Is there another way forward now??? It seems pretty simple right?! So far no idea when exactly though..but maybe soon....maybe next time sometime.....I'm sure he'll come back later!!"
+        },
+        {
+            "user": "just me trying to get your memory working",
+            "bot": "(Based on the context above, do you recall anything relevant from memory that may assist in generating a helpful response?) Nothing really important yet tho; still need help finding answers :-)"
+        }
+    ]
+}

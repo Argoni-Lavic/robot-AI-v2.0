@@ -3,10 +3,10 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 class MemoryChatBot:
-    def __init__(self, model_name="EleutherAI/gpt-Neo-2.7B", memory_file="user_memory.json"):
+    def __init__(self, model_name="EleutherAI/GPT-Neo 1.3B", memory_file="user_memory.json"):
         # Load GPT-NeoX model and tokenizer
-        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
-        self.model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16, device_map="auto")
+        self.model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-neo-1.3B", torch_dtype=torch.float16, device_map="auto")
+        self.tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-neo-1.3B")
 
         # Assign a padding token if missing
         self.tokenizer.pad_token = self.tokenizer.eos_token  
@@ -38,7 +38,7 @@ class MemoryChatBot:
             input_text = "Hello! How can I help you today?"
 
         # Tokenize input
-        inputs = self.tokenizer(input_text, return_tensors="pt", padding=True, truncation=True).to("cuda")
+        inputs = self.tokenizer(input_text, return_tensors="pt", padding=True, truncation=True).to("cpu")
 
         # Generate response
         outputs = self.model.generate(
